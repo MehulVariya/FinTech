@@ -24,7 +24,7 @@ Fintech apps are essentially apps that use technology to help you manage your mo
 
 ## LICENSE
   
-  - Copyright (c) 2024 The Happy Valentine Day Wishes Author - [MIT License]
+  - Copyright (c) 2024 The FinTech Author - [MIT License]
  
  [Fontawesome]: https://play.google.com/store/apps/details?id=com.ninesquaretech.valentineday
  [MIT License]: https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/LICENSE.txt
