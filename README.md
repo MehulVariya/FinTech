@@ -8,9 +8,11 @@ Fintech apps are essentially apps that use technology to help you manage your mo
 - __Goal Setting and Tracking:__ Set specific financial goals, like saving for a vacation or paying off debt. The app can track your progress and use charts to show you how close you are to achieving your targets.
 
 ## 🤩 Designs:
-![Imgur](https://github.com/MehulVariya/FinTech/blob/main/images/1.png)
-![Imgur](https://github.com/MehulVariya/FinTech/blob/main/images/2.png)
-![Imgur](https://github.com/MehulVariya/FinTech/blob/main/images/3.png)
+<div style = ""> 
+<img src="https://github.com/MehulVariya/FinTech/blob/main/images/1.png" alt="" width="32%"/>
+<img src="https://github.com/MehulVariya/FinTech/blob/main/images/2.png" alt="Screenshot_1659640778" width="32%"/>
+<img src="https://github.com/MehulVariya/FinTech/blob/main/images/3.png" alt="Screenshot_1666104775" width="32%"/>
+</div>
 
 ## 📱 Technologies / Tools used for building this app includes:
 | Flutter | Dart 
